@@ -1,0 +1,16 @@
+{
+  "name": "educybdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mansoribdd",
+  "license": "MIT",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^17.1.1",
+    "cypress": "^12.12.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "prettier": "^2.8.8"
+  },
+  "dependencies": {
+    "@cypress/browserify-preprocessor": "^3.0.2"
+  }
+}
